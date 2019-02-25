@@ -12,7 +12,7 @@ namespace ConsoleApp1
         {
             int a;
             Console.WriteLine(" user 01 start coding");
-            a = 5;
+            a = 8249;
         }
     }
 }
