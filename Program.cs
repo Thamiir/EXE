@@ -10,8 +10,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-
+            int a;
             Console.WriteLine(" user 01 start coding");
+            a = 5;
         }
     }
 }
